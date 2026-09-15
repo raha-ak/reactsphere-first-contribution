@@ -9,13 +9,14 @@ If your name is below — congratulations! 🎉
 
 ## 🚀 Contributors
 
+* [Qasim Sethar](https://github.com/qasimio)
 * [Naheel Muhammed ](https://github.com/naheel0)
 * [Amal Krishna ](https://github.com/Amal-24)
 * [abhijith-k-r](https://github.com/abhijith-k-r)
 * [Adithyan](https://github.com/adithyanmkd)
 * [Ansif mk](https://github.com/ansifmk)
 * [jaseel](https://github.com/jaseel0)
-* [	ashfak](https://github.com/ashfak88)
+* [ashfak](https://github.com/ashfak88)
 * [jefin](https://github.com/jefin-s)
 * [Bismay](https://github.com/Bismay-exe)
 * [BhaveshKumbhare](https://github.com/bhaveshkumbhare)
